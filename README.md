@@ -5,5 +5,5 @@ Please see the notebook on how to fit and implement the GMM on photometric catal
 
 If you use this code, please cite the following works: 
 
-Gould et al., 2023
+Gould et al., 2023 \n 
 Scikit-learn: Machine Learning in Python, Pedregosa et al., JMLR 12, pp. 2825-2830, 2011.
