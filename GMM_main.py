@@ -1,10 +1,3 @@
-# we need the NUVU, uv, vj colours and their errors for the sample 
-# generate a random assigment
-# fit 
-# save the pq 
-
-# cat = clean, 2<z<3 sample 
-
 def calc_qprob(cat):
     
     # given NUVU, UV, VJ colours for a catalog (and their errors), calculate the boot strapped
