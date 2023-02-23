@@ -1,6 +1,6 @@
 # GMM-quiescent
 
-- Under construction, please check back regularly - 
+Under construction, please check back regularly 
 
 
 Simple code to assign a probability of quiescence to a galaxy given its rest frame NUV,U,V,J fluxes using a Gaussian Mixture Model from the Scikit-learn python library (Pedregosa et al., 2011). 
