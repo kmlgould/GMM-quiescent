@@ -1,8 +1,8 @@
 cff-version: 1.2.0
 message: "If you use this software, please cite it as below."
 authors:
-- family-names: "GOULD"
-  given-names: "KATRIONA MAI LANDAU"
+- family-names: "Gould"
+  given-names: "Katriona M. L."
   orcid: "https://orcid.org/0000-0003-4196-5960"
 title: "GMM-quiescent"
 version: 1.0.0
