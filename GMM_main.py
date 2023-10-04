@@ -57,7 +57,7 @@ def calc_qprob(cat):
             group5_t = zscore_t.T[4]
             group6_t = zscore_t.T[5]
 
-            pc = np.percentile(group3_t,q=(5,16,50,84,95))
+            pc = np.percentile(group4_t,q=(5,16,50,84,95))
 
             prob_q[n,:] = pc # add to 2d array of Lxn [N,1000] where N = len(data)  
             
